@@ -1,0 +1,19 @@
+body {
+  min-height: 7000px;
+}
+
+.img-thumbnail {
+  background: #000;
+  max-width: 100%;
+  height: auto;
+}
+
+mark {
+  color: #a1a1a1;
+  background-color: transparent;
+}
+
+section {
+  opacity: 80%;
+  padding: 15rem 5rem;
+}
